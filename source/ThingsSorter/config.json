@@ -1,0 +1,18 @@
+{
+  "info": {
+    "name": "放哪儿了",
+    "url": "",
+    "version": "1.0.0",
+    "author": "b.s.",
+    "website": "",
+    "types": 0
+  },
+  "settings": {
+    "minSDKVer": "1.20.0",
+    "minOSVer": "10.0.0",
+    "idleTimerDisabled": false,
+    "autoKeyboardEnabled": false,
+    "keyboardToolbarEnabled": false,
+    "rotateDisabled": true
+  }
+}
